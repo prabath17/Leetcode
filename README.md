@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prabath17/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
