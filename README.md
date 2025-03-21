@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabath17/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabath17/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/prabath17/Leetcode/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
