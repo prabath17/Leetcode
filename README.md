@@ -53,10 +53,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prabath17/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
