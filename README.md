@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prabath17/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/prabath17/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Bit Manipulation
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/prabath17/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prabath17/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
