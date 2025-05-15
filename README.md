@@ -64,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
