@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prabath17/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prabath17/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/prabath17/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Bit Manipulation
