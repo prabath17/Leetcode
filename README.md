@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/prabath17/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2630-alternating-digit-sum](https://github.com/prabath17/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
