@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prabath17/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
