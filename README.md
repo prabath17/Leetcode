@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/prabath17/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
