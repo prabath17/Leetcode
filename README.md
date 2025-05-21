@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prabath17/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prabath17/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabath17/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prabath17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
