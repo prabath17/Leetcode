@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/prabath17/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
 | ------- |
@@ -120,8 +122,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/prabath17/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prabath17/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
