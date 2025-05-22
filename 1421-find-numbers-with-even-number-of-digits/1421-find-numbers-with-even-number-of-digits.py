@@ -1,15 +1,15 @@
-class Solution(object):
-    def findNumbers(self, nums):
-        count=0
+class Solution:
+    def findNumbers(self, nums: List[int]) -> int:
+        max=0
         for i in nums:
-            
-            if len(str(i))%2==0:
+            count=0
+            while (i>0):
+                rem=i%10
                 count+=1
+                i//=10
+            if count%2==0:
+                max+=1
+        return max
 
-        return count
-
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+            
         
