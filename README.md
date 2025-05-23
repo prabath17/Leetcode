@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/prabath17/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/prabath17/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,9 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
