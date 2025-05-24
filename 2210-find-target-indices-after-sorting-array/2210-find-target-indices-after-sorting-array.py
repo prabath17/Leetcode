@@ -1,5 +1,12 @@
 class Solution(object):
     def targetIndices(self, nums, target):
+
+        result=[]
+        for i,val in enumerate(sorted(nums)):
+            if target==val:
+                result.append(i)
+        return result
+        '''
         n = len(nums)
 
         for i in range(n):
@@ -11,6 +18,7 @@ class Solution(object):
             if target==val:
                 result.append(i)
         return result
+        '''
 
 
         """
