@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
+| [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Database
 |  |
 | ------- |
