@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/prabath17/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/prabath17/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabath17/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/prabath17/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prabath17/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prabath17/Leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/prabath17/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prabath17/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
