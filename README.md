@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabath17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prabath17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/prabath17/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prabath17/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabath17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prabath17/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prabath17/Leetcode/tree/master/0011-container-with-most-water) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
