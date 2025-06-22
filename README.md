@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/prabath17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prabath17/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/prabath17/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabath17/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/prabath17/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prabath17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
