@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/prabath17/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/prabath17/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/prabath17/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/prabath17/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/prabath17/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/prabath17/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prabath17/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prabath17/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prabath17/Leetcode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/prabath17/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/prabath17/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/prabath17/Leetcode/tree/master/1236-n-th-tribonacci-number) |
