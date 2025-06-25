@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/prabath17/Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/prabath17/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/prabath17/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/prabath17/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prabath17/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prabath17/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prabath17/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/prabath17/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/prabath17/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/prabath17/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/prabath17/Leetcode/tree/master/0326-power-of-three) |
