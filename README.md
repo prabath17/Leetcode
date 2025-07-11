@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prabath17/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prabath17/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/prabath17/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/prabath17/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prabath17/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prabath17/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/prabath17/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prabath17/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prabath17/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/prabath17/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prabath17/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prabath17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prabath17/Leetcode/tree/master/0242-valid-anagram) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prabath17/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/prabath17/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/prabath17/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prabath17/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Number Theory
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prabath17/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/prabath17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/prabath17/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/prabath17/Leetcode/tree/master/1848-sum-of-unique-elements) |
