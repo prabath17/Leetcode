@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/prabath17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prabath17/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/prabath17/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prabath17/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/prabath17/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/prabath17/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prabath17/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
