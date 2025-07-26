@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prabath17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prabath17/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/prabath17/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prabath17/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prabath17/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prabath17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prabath17/Leetcode/tree/master/0075-sort-colors) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prabath17/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prabath17/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/prabath17/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prabath17/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/prabath17/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prabath17/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prabath17/Leetcode/tree/master/0055-jump-game) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
