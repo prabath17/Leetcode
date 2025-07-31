@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prabath17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/prabath17/Leetcode/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/prabath17/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/prabath17/Leetcode/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/prabath17/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prabath17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prabath17/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prabath17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/prabath17/Leetcode/tree/master/0792-binary-search) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prabath17/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting
