@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/prabath17/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2386-min-max-game](https://github.com/prabath17/Leetcode/tree/master/2386-min-max-game) |
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/prabath17/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prabath17/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prabath17/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2386-min-max-game](https://github.com/prabath17/Leetcode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
