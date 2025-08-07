@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/prabath17/Leetcode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/prabath17/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prabath17/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/prabath17/Leetcode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prabath17/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/prabath17/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/prabath17/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/prabath17/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
