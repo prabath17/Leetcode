@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1970-sorting-the-sentence](https://github.com/prabath17/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prabath17/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2245-destroying-asteroids](https://github.com/prabath17/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/prabath17/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1970-sorting-the-sentence](https://github.com/prabath17/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prabath17/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/prabath17/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
