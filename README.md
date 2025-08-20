@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/prabath17/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/prabath17/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/prabath17/Leetcode/tree/master/0504-base-7) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/prabath17/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/prabath17/Leetcode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prabath17/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabath17/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prabath17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/prabath17/Leetcode/tree/master/0500-keyboard-row) |
 | [0900-reordered-power-of-2](https://github.com/prabath17/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/prabath17/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/prabath17/Leetcode/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1635-number-of-good-pairs](https://github.com/prabath17/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prabath17/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/prabath17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/prabath17/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/prabath17/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/prabath17/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/prabath17/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabath17/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
