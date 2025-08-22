@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prabath17/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prabath17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/prabath17/Leetcode/tree/master/0500-keyboard-row) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/prabath17/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/prabath17/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/prabath17/Leetcode/tree/master/0932-monotonic-array) |
