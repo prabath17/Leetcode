@@ -3,8 +3,10 @@ class Solution:
         nums = set(nums) 
         if len(nums)<3:
             return max(nums)
-
-        max1=float('-inf')
+        nums=list(nums)
+        nums.sort()
+        return nums[-3]
+        '''max1=float('-inf')
         max2=float('-inf')
         max3=float('-inf')
         for num in nums:
@@ -18,5 +20,5 @@ class Solution:
             elif num > max3:
                 max3 = num
 
-        return max3
+        return max3'''
         
