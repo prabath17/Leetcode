@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/prabath17/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/prabath17/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prabath17/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/prabath17/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/prabath17/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/prabath17/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prabath17/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prabath17/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/prabath17/Leetcode/tree/master/3371-harshad-number) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prabath17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Union Find
 |  |
 | ------- |
@@ -460,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/prabath17/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
