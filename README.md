@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/prabath17/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/prabath17/Leetcode/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prabath17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/prabath17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prabath17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/prabath17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prabath17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/prabath17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
 | ------- |
