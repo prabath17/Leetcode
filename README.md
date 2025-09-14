@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prabath17/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/prabath17/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/prabath17/Leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/prabath17/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/prabath17/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1031-add-to-array-form-of-integer](https://github.com/prabath17/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/prabath17/Leetcode/tree/master/1086-divisor-game) |
