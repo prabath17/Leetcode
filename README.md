@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prabath17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/prabath17/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/prabath17/Leetcode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/prabath17/Leetcode/tree/master/0461-hamming-distance) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/prabath17/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
