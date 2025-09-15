@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/prabath17/Leetcode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2886-faulty-keyboard](https://github.com/prabath17/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/prabath17/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prabath17/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
+| [2886-faulty-keyboard](https://github.com/prabath17/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prabath17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prabath17/Leetcode/tree/master/3194-find-words-containing-character) |
