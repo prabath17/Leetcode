@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/prabath17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/prabath17/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/prabath17/Leetcode/tree/master/2386-min-max-game) |
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabath17/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/prabath17/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prabath17/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2238-a-number-after-a-double-reversal](https://github.com/prabath17/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/prabath17/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prabath17/Leetcode/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
 |  |
