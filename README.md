@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/prabath17/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/prabath17/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prabath17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-reverse-only-letters](https://github.com/prabath17/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prabath17/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prabath17/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/prabath17/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prabath17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Union Find
 |  |
