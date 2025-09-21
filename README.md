@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/prabath17/Leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2836-neither-minimum-nor-maximum](https://github.com/prabath17/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prabath17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/prabath17/Leetcode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/prabath17/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/prabath17/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2886-faulty-keyboard](https://github.com/prabath17/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/prabath17/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
+| [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prabath17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prabath17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/prabath17/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/prabath17/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prabath17/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
