@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prabath17/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/prabath17/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/prabath17/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/prabath17/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prabath17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prabath17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/prabath17/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Database
 |  |
 | ------- |
