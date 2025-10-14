@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/prabath17/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prabath17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/prabath17/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/prabath17/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/prabath17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0953-reverse-only-letters](https://github.com/prabath17/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/prabath17/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prabath17/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/prabath17/Leetcode/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prabath17/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/prabath17/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prabath17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/prabath17/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/prabath17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/prabath17/Leetcode/tree/master/0792-binary-search) |
 | [0910-nth-magical-number](https://github.com/prabath17/Leetcode/tree/master/0910-nth-magical-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prabath17/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prabath17/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
