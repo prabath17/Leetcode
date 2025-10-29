@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prabath17/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/prabath17/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/prabath17/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/prabath17/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/prabath17/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/prabath17/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
