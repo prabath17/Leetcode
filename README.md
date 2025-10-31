@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prabath17/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prabath17/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prabath17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/prabath17/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3639-zero-array-transformation-i](https://github.com/prabath17/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prabath17/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prabath17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prabath17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prabath17/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/prabath17/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/prabath17/Leetcode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prabath17/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prabath17/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prabath17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prabath17/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/prabath17/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prabath17/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
