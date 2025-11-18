@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/prabath17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabath17/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/prabath17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/prabath17/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/prabath17/Leetcode/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/prabath17/Leetcode/tree/master/0945-snakes-and-ladders) |
