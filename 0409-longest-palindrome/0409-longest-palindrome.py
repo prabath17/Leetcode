@@ -11,10 +11,10 @@ class Solution:
         odd_values = [v for v in freq.values() if v % 2 == 1]
         maxodd = max(odd_values) if odd_values else 0
         ans=0
-        flag=False
+        flag=True
         for key,val in freq.items():
-            if not flag and val==maxodd:
-                flag=True
+            if flag and val==maxodd:
+                flag=False
                 ans+=val
             elif val%2==0:
                 ans+=val
