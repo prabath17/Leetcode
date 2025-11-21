@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabath17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/prabath17/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/prabath17/Leetcode/tree/master/0500-keyboard-row) |
+| [0605-can-place-flowers](https://github.com/prabath17/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/prabath17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prabath17/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/prabath17/Leetcode/tree/master/0682-baseball-game) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/prabath17/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/prabath17/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/prabath17/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/prabath17/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/prabath17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/prabath17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/prabath17/Leetcode/tree/master/1448-maximum-69-number) |
