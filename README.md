@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/prabath17/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prabath17/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prabath17/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prabath17/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prabath17/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/prabath17/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/prabath17/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prabath17/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prabath17/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prabath17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/prabath17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/prabath17/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/prabath17/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -580,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
