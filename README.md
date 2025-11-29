@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prabath17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/prabath17/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/prabath17/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prabath17/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/prabath17/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/prabath17/Leetcode/tree/master/3221-find-the-peaks) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/prabath17/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prabath17/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prabath17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/prabath17/Leetcode/tree/master/3731-find-missing-elements) |
