@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/prabath17/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prabath17/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/prabath17/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prabath17/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3221-find-the-peaks](https://github.com/prabath17/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prabath17/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/prabath17/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prabath17/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prabath17/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/prabath17/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prabath17/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/prabath17/Leetcode/tree/master/3321-type-of-triangle) |
