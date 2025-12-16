@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prabath17/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1848-sum-of-unique-elements](https://github.com/prabath17/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/prabath17/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/prabath17/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prabath17/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prabath17/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/prabath17/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/prabath17/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prabath17/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/prabath17/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/prabath17/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prabath17/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/prabath17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/prabath17/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/prabath17/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/prabath17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
