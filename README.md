@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/prabath17/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prabath17/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/prabath17/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1447-simplified-fractions](https://github.com/prabath17/Leetcode/tree/master/1447-simplified-fractions) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prabath17/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/prabath17/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prabath17/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/prabath17/Leetcode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prabath17/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/prabath17/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1447-simplified-fractions](https://github.com/prabath17/Leetcode/tree/master/1447-simplified-fractions) |
 | [1448-maximum-69-number](https://github.com/prabath17/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/prabath17/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/prabath17/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prabath17/Leetcode/tree/master/0258-add-digits) |
+| [1447-simplified-fractions](https://github.com/prabath17/Leetcode/tree/master/1447-simplified-fractions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
