@@ -3,7 +3,7 @@ class Solution:
         nums.sort()
         i=0
         j=len(nums)-1
-        maxval=0
+        maxval=nums[i]+nums[j]
         while i<j:
             val=nums[i]+nums[j]
             maxval=max(maxval,val)
