@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prabath17/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/prabath17/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prabath17/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/prabath17/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prabath17/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/prabath17/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prabath17/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/prabath17/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabath17/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prabath17/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/prabath17/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prabath17/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prabath17/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prabath17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prabath17/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prabath17/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prabath17/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/prabath17/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prabath17/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2486-most-frequent-even-element](https://github.com/prabath17/Leetcode/tree/master/2486-most-frequent-even-element) |
