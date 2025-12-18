@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/prabath17/Leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/prabath17/Leetcode/tree/master/0197-rising-temperature) |
 | [0627-swap-salary](https://github.com/prabath17/Leetcode/tree/master/0627-swap-salary) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prabath17/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
 | ------- |
