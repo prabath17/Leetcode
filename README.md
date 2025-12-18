@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prabath17/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2396-strictly-palindromic-number](https://github.com/prabath17/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prabath17/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/prabath17/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/prabath17/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/prabath17/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/prabath17/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/prabath17/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/prabath17/Leetcode/tree/master/1086-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/prabath17/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
