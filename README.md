@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/prabath17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/prabath17/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/prabath17/Leetcode/tree/master/0932-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/prabath17/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/prabath17/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/prabath17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/prabath17/Leetcode/tree/master/0504-base-7) |
 | [0830-positions-of-large-groups](https://github.com/prabath17/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prabath17/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/prabath17/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/prabath17/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/prabath17/Leetcode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prabath17/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
