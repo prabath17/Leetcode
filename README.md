@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/prabath17/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/prabath17/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2579-count-total-number-of-colored-cells](https://github.com/prabath17/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prabath17/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/prabath17/Leetcode/tree/master/2630-alternating-digit-sum) |
