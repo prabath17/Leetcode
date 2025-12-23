@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prabath17/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/prabath17/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/prabath17/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2507-number-of-common-factors](https://github.com/prabath17/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/prabath17/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/prabath17/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/prabath17/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting Sort
 |  |
