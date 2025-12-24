@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prabath17/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/prabath17/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2836-neither-minimum-nor-maximum](https://github.com/prabath17/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/prabath17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prabath17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/prabath17/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prabath17/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/prabath17/Leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/prabath17/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/prabath17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prabath17/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prabath17/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/prabath17/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/prabath17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/prabath17/Leetcode/tree/master/2245-destroying-asteroids) |
+| [3074-apple-redistribution-into-boxes](https://github.com/prabath17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prabath17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prabath17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/prabath17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
