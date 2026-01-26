@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/prabath17/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/prabath17/Leetcode/tree/master/1044-find-common-characters) |
 | [1127-last-stone-weight](https://github.com/prabath17/Leetcode/tree/master/1127-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/prabath17/Leetcode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/prabath17/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/prabath17/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/prabath17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/prabath17/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/prabath17/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/prabath17/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prabath17/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
